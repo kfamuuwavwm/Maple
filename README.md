@@ -6,6 +6,10 @@
 
 <br>
 
+[메이플 가상 무기 강화 시스템 다운로드](https://github.com/ENNP/Maple/raw/v2.38.9/maple.exe)
+
+<br>
+
 #### 잠재능력의 모든 확률을 동일하게 설정해두었습니다.
 
 <br>
