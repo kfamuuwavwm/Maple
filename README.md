@@ -11,11 +11,16 @@
 <br>
 
 #### 블랙큐브 잠재능력
+
+![](https://github.com/ENNP/Maple/blob/main/maple.png)
+
 https://github.com/ENNP/MAPLE/blob/main/maple.c#L16-L44
 
 <br>
 
 #### 에디셔널 잠재능력
+
+![](https://github.com/ENNP/Maple/blob/main/maple2.png)
 https://github.com/ENNP/MAPLE/blob/main/maple.c#L53-L93
 
 <br><br>
