@@ -17,7 +17,6 @@
 #### 블랙큐브 잠재능력
 
 ![](https://github.com/ENNP/Maple/blob/main/maple.png)
-
 https://github.com/ENNP/MAPLE/blob/main/maple.c#L16-L44
 
 <br>
@@ -26,6 +25,12 @@ https://github.com/ENNP/MAPLE/blob/main/maple.c#L16-L44
 
 ![](https://github.com/ENNP/Maple/blob/main/maple2.png)
 https://github.com/ENNP/MAPLE/blob/main/maple.c#L53-L93
+
+<br><br>
+
+#### RESULT
+
+![](https://github.com/ENNP/Maple/blob/main/maple3.png)
 
 <br><br>
 
