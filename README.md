@@ -17,14 +17,14 @@
 #### 블랙큐브 잠재능력
 
 ![](https://github.com/ENNP/Maple/blob/main/maple.png)
-https://github.com/ENNP/MAPLE/blob/main/maple.c#L16-L44
+#### 사진 출처 : [https://maplestory.nexon.com/Guide/OtherProbability/cube/black](https://maplestory.nexon.com/Guide/OtherProbability/cube/black)
 
 <br>
 
 #### 에디셔널 잠재능력
 
 ![](https://github.com/ENNP/Maple/blob/main/maple2.png)
-https://github.com/ENNP/MAPLE/blob/main/maple.c#L53-L93
+#### 사진 출처 : [https://maplestory.nexon.com/Guide/OtherProbability/cube/addi](https://maplestory.nexon.com/Guide/OtherProbability/cube/addi)
 
 <br><br>
 
